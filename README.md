@@ -9,6 +9,7 @@
 #### 경력
 
 + 충남대학교 바이오시스템기계공학과 졸업 (2017. 03 ~ 2023. 02)
++ 코드스테이츠 BEB 6기 수료 (2022. 07 ~ 2022. 12)
 <!--
 **CDDWNE/CDDWNE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
