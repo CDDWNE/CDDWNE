@@ -1,5 +1,7 @@
-## 안녕하세요. 프론트 엔드 개발자, 최진영입니다✌️
+#### 안녕하세요. 프론트 엔드 개발자, 최진영입니다✌️
 
+빠르게 변화하는 생태계를 곱씹으며, 다음 변화를 위한 적응을 하기 위해 노력합니다.
+저와 커피 챗을 하고 싶은 생각이 드신다면, [email](chio6632@gmail.com)으로 연락 주세요 👍
 <!--
 **CDDWNE/CDDWNE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
